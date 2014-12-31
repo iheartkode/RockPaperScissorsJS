@@ -1,7 +1,7 @@
 RockPaperScissorsJS
 ===================
 
-Created RPS while learning JavaScript.
+Created Rock, Paper Scissors  while learning JavaScript.
 
 Live View:
 
